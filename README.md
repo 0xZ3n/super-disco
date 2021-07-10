@@ -1,10 +1,9 @@
 # super-disco
 
-## tried and failed to get this to display my timeblocks and will be working
-## with my tutor on Tuesday to help me get on the right track.
+## Still needs to implement, local storage, but all is closer to being complete
+## I receieved clarification from my tutor on several mistakes I was making on my first submission of this. 
 
 This is meant to be a program which displays work hour blocks, which can hold
-scheduled appointments in local storage, and persist when the page is refreshed.
-
-So far, the only thing i've gotten to work is displaying the current date at the top of the
-screen. I don't know why, but I was able to make it work with DayJS() and not Moment()
+scheduled appointments in local storage, and persist when the page is refreshes. 
+I tried implementing with DayJS, as Moment is deprecated, and I couldn't get it to display what I wanted
+but my tutor helped me figure that what my mistakes were there. 
